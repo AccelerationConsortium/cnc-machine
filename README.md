@@ -30,6 +30,7 @@ This package can be used to control Genmitsu CNC machines. This is useful for ac
   - open() and close() are optional commands to open and close a persistent connection to the CNC machine
 
 <h3>Locations:</h3>
+
 - There are two example locations, a location and a location array in the location_status.yaml file in the directory
 
 vial_rack: #Array-location 
