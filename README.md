@@ -33,7 +33,7 @@ This package can be used to control Genmitsu CNC machines. This is useful for ac
 
 - There are two example locations, a location and a location array in the location_status.yaml file in the directory
 
-vial_rack: #Array-location 
+- vial_rack: #Array-location 
 
   - num_x: 2 #Rows
     
