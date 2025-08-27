@@ -33,6 +33,12 @@ This package can be used to control Genmitsu CNC machines. This is useful for ac
 
 - There are two example locations, a location and a location array in the location_status.yaml file in the directory
 
+- The location index moves through a whole column before moving to the next (this is arbitrary, see the diagram below)
+
+- The direction of motion has to do with the x_offset and and y_offset values (either + or - direction)
+
+- Location index 0 represents the origin with coordinates (x_origin, y_origin, z_origin)
+
 - vial_rack: #Array-location 
 
   - num_x: 2 #Rows
