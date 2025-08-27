@@ -24,4 +24,4 @@ m.home()                                                        # Home the CNC M
 m.move_to_location("vial_rack", 1, safe=True, speed=2500)       # Move to vial rack position 1
 m.move_to_point(100, 100, -30)                                  # Move to absolute point (100, 100, -30)
 m.origin()                                                      # Move to 0,0,0
-m.close()                                                    # Close persistent connection (only if opened)
+m.close()                                                       # Close persistent connection (only if opened)
