@@ -41,13 +41,16 @@ This package can be used to control Genmitsu CNC machines. This is useful for ac
 
   - x_origin: 166.5 #move the cnc machine with the needle attached, and find the position
     
-  - y_origin: 68
+  - y_origin: 125
     
   - z_origin: 0
     
-  - x_offset: 37.5 #Measure with caliper
+  - x_offset: 36 #Measure with caliper
     
   - y_offset: -36 #MEasure with caliper
+ 
+<img width="1580" height="1190" alt="image" src="https://github.com/user-attachments/assets/2022a495-b026-4f38-a9e6-7f2ad14fdd05" />
+
   
 <h3>Advice on Integration with Scientific Instruments</h3>
 
