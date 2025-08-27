@@ -1,0 +1,16 @@
+vial_rack: #Array-location
+  num_x: 2 #Rows
+  num_y: 4 #Columns
+  x_origin: 166.5 #move the cnc machine with the needle attached, and find the position 
+  y_origin: 68
+  z_origin: 0
+  x_offset: 37.5 #Measure with caliper
+  y_offset: -36 #MEasure with caliper
+well_plate: #Array-location
+  num_x: 4 #Rows
+  num_y: 6 #Columns
+  x_origin: 166.5 #move the cnc machine with the needle attached, and find the position 
+  y_origin: 68
+  z_origin: 0
+  x_offset: 37.5 #Measure with caliper
+  y_offset: -36 #MEasure with caliper
