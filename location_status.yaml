@@ -1,7 +1,7 @@
 vial_rack: #Array-location
   num_x: 2 #Rows
   num_y: 4 #Columns
-  x_origin: 166.5 #move the cnc machine with the needle attached, and find the position 
+  x_origin: 166.5 #move the cnc machine to find the position 
   y_origin: 125
   z_origin: 0
   x_offset: 37.5 #Measure with caliper
@@ -9,7 +9,7 @@ vial_rack: #Array-location
 well_plate: #Array-location
   num_x: 4 #Rows
   num_y: 6 #Columns
-  x_origin: 50 #move the cnc machine with the needle attached, and find the position 
+  x_origin: 50 #move the cnc machine to find the position 
   y_origin: 50
   z_origin: 0
   x_offset: 5 #Measure with caliper
